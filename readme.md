@@ -1,0 +1,2 @@
+# Pokemon Express
+A little practise on how to create routes with express. You can view all pokemons stored in the database and add new pokemon to the database. When a pokemon's name is clicked, it shows the name and image of the pokemon
